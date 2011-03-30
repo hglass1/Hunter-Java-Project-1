@@ -1,0 +1,7 @@
+A.Hunter Glass
+3/30/2011
+CSC 2310 M,W 5:30-6:45
+B. Java Project #1, this project accepts args from console and graphs the information using processing.
+
+C&D. In terminal/Command prompt navigate to the folder where the .jar is stored.
+type java -jar Hunter-Java-Project--1 480 240 100 labelName1 200 labelName2 300 lanelName3
